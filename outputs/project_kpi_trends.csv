@@ -1,0 +1,6 @@
+project_name,fiscal_year,budget_amount,actual_amount,variance_percent,running_actuals,running_budget,cumulative_variance_percent
+CIP Waterline Extension,2023,1200000,1250000,4.17,1250000,1200000,4.17
+CIP Waterline Extension,2024,1800000,900000,-50.00,2150000,3000000,-28.33
+Smart Meter Rollout,2023,2200000,2300000,4.55,2300000,2200000,4.55
+Smart Meter Rollout,2024,2600000,2700000,3.85,5000000,4800000,4.17
+Fleet Vehicle Replacement,2024,500000,350000,-30.00,350000,500000,-30.00
